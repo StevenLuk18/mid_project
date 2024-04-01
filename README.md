@@ -13,8 +13,9 @@ This is a tool that inclines the Agile development approach which is similar to 
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/a53976df-80ef-48ee-a9cf-40771248ed97)
 
 ## Table of contents
-* [Brainstorm on research and design workflow](#Brainstorm-on-research-and-design-workflow)
-* [Conduct web scraping initiatives](#Conduct-web-scraping-initiatives)
+* [Brainstorm on research and design workflow](##Brainstorm-on-research-and-design-workflow)
+* [Conduct web scraping initiatives](##Conduct-web-scraping-initiatives)
+* [Maintain a database](##Maintain-a-database)
 
 ## 1. Brainstorm-on-research-and-design-workflow
 
@@ -40,7 +41,7 @@ More in [requirement.txt](requirement.txt)
 ### Wellcome DataFrame
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/daa031da-66a8-4a5e-865a-28fa672b8ce4)
 
-## 3. Maintain a database
+## 3. Maintain-a-database
 
 There are three tables we created: 
 
