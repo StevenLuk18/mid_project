@@ -13,11 +13,11 @@ This is a tool that inclines the Agile development approach which is similar to 
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/a53976df-80ef-48ee-a9cf-40771248ed97)
 
 ## Table of contents
-* [Brainstorm-on-research-and-design-workflow](##Brainstorm-on-research-and-design-workflow)
-* [Conduct-web-scraping-initiatives](##Conduct-web-scraping-initiatives)
+* [Brainstorm on research and design workflow](##Brainstorm_on_research_and_design_workflow)
+* [Conduct web scraping initiatives](##Conduct-web-scraping-initiatives)
 * [Maintain a database](##Maintain-a-database)
 
-## 1. Brainstorm-on-research-and-design-workflow
+## 1. Brainstorm_on_research_and_design_workflow
 
 - My teammates and I were undergoing research like testing some of the e-stores with web scraping techniques.
 - Find out whether the online shop is suitable for web scraping.
