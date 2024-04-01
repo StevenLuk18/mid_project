@@ -16,7 +16,7 @@ This is a tool that inclines the Agile development approach which is similar to 
 - [Brainstorm on research and design workflow](#Brainstorm-on-research-and-design-workflow)
 - [Conduct web scraping initiatives](#Conduct-web-scraping-initiatives)
 - [Maintain a database](#Maintain-a-database)
-- [Provide valuable insights](#provide-valuable-insights)
+- [Provide-valuable-insights](#Provide-valuable-insights)
 - [Conclusion](#Conclusion)
   
 
