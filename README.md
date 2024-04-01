@@ -58,7 +58,7 @@ There are three tables we created:
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/b412b011-b3fa-4d25-8075-8c3e862b1eee)
 
 
-# 4. Provide valuable insights
+# 4. Provide-valuable-insights
 In the end, some charts deliver business insights for end-users:
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/39a95157-59c4-4178-8481-931da92727c1)
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/8685b6ec-c79e-4ae7-a0a5-edc33f42977c)
