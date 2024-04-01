@@ -19,7 +19,7 @@ This is a tool that inclines the Agile development approach which is similar to 
 - [Provide valuable insights](#Provide-valuable-insights) 
 - [Conclusion](#Conclusion)
   
-
+<a name="Brainstorm-on-research-and-design-workflow"></a>
 # 1. Brainstorm on research and design workflow
 
 - My teammates and I were undergoing research like testing some of the e-stores with web scraping techniques.
@@ -27,7 +27,7 @@ This is a tool that inclines the Agile development approach which is similar to 
 - Decide whether the website's product details are comparable such as the product's product_id, brand, volume, etc.
 - Database content like determining how many tables and what should be stored inside the database.
 - Some analytical questions/solutions should be answered after this project.
-
+<a name="Conduct-web-scraping-initiatives"></a>
 # 2. Conduct web scraping initiatives
 ## Main technical library
 Selenium
@@ -43,7 +43,7 @@ More in [requirement.txt](requirement.txt)
 
 ## Wellcome DataFrame
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/daa031da-66a8-4a5e-865a-28fa672b8ce4)
-
+<a name="Maintain-a-database"></a>
 # 3. Maintain a database
 
 There are three tables we created: 
@@ -57,9 +57,8 @@ There are three tables we created:
 ## daily_table (Frequently changed)
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/b412b011-b3fa-4d25-8075-8c3e862b1eee)
 
-
-# 4. Provide valuable insights 
 <a name="Provide-valuable-insights"></a>
+# 4. Provide valuable insights 
 In the end, some charts deliver business insights for end-users:
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/39a95157-59c4-4178-8481-931da92727c1)
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/8685b6ec-c79e-4ae7-a0a5-edc33f42977c)
