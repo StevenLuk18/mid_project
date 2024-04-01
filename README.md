@@ -13,11 +13,14 @@ This is a tool that inclines the Agile development approach which is similar to 
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/a53976df-80ef-48ee-a9cf-40771248ed97)
 
 # Table of contents
-* [Brainstorm on research and design workflow](#Brainstorm_on_research_and_design_workflow)
-* [Conduct web scraping initiatives](##Conduct-web-scraping-initiatives)
-* [Maintain a database](##Maintain-a-database)
+- [Brainstorm on research and design workflow](#Brainstorm-on-research-and-design-workflow)
+- [Conduct web scraping initiatives](#Conduct-web-scraping-initiatives)
+- [Maintain a database](#Maintain-a-database)
+- [Provide valuable insights](#Provide-valuable-insights)
+- [Conclusion](#Conclusion)
+  
 
-# 1. Brainstorm_on_research_and_design_workflow
+# 1. Brainstorm on research and design workflow
 
 - My teammates and I were undergoing research like testing some of the e-stores with web scraping techniques.
 - Find out whether the online shop is suitable for web scraping.
@@ -25,8 +28,8 @@ This is a tool that inclines the Agile development approach which is similar to 
 - Database content like determining how many tables and what should be stored inside the database.
 - Some analytical questions/solutions should be answered after this project.
 
-# 2. Conduct-web-scraping-initiatives
-### Main technical library
+# 2. Conduct web scraping initiatives
+## Main technical library
 Selenium
 
 ```shell
@@ -41,7 +44,7 @@ More in [requirement.txt](requirement.txt)
 ## Wellcome DataFrame
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/daa031da-66a8-4a5e-865a-28fa672b8ce4)
 
-# 3. Maintain-a-database
+# 3. Maintain a database
 
 There are three tables we created: 
 
