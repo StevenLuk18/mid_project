@@ -13,8 +13,8 @@ This is a tool that inclines the Agile development approach which is similar to 
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/a53976df-80ef-48ee-a9cf-40771248ed97)
 
 ## Table of contents
-* [Brainstorm on research and design workflow](##Brainstormonresearchanddesignworkflow)
-* [Conduct web scraping initiatives](##Conductwebscrapinginitiatives)
+* [Brainstorm on research and design workflow](#Brainstorm_on_research_and_design_workflow)
+* [Conduct web scraping initiatives](#Conduct_web_scraping_initiatives)
 
 ## 1. Brainstorm on research and design workflow
 
