@@ -58,7 +58,7 @@ In the end, some charts deliver business insights for end-users:
 ## Conclusion
 ### Wellcome
 - Selling more high-end alcohols.
-- Trend to sell with box or bulk.
+- Tend to sell with box or bulk.
 - More expensive if a customer only buys a single one.
 
 More types of one particular alcohol
@@ -66,7 +66,7 @@ More types of one particular alcohol
 
 ### ParknShop
 - Selling more economic alcohols.
-- Trend to encourage to buy a single one.
+- Tend to encourage to buy a single one.
 - Small profit but rapid turnover
 
 More unique brands for the customers
