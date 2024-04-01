@@ -14,9 +14,15 @@ This is a tool that inclines the Agile development approach which is similar to 
 
 ## 1. Brainstorm on research and design workflow
 
-At this stage, me and my teammates were undergoing research like testing some of the e-stores with web scraping techniques. Find out whether the online shop is suitable for web scraping or not. Moreover, we need to decide whether the website's product details are comparable such as the product's product_id, brand, 
+- My teammates and I were undergoing research like testing some of the e-stores with web scraping techniques.
+- Find out whether the online shop is suitable for web scraping or not.
+- Decide whether the website's product details are comparable such as the product's product_id, brand, volume, etc.
 
 ## 2. Conduct web scraping initiatives
+### Main technical library
+Selenium
+
+More in [requirement.txt](requirement.txt)
 
 ### ParknShop DataFrame
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/9232e9cb-c68e-47c7-bef9-69190745dabc)
@@ -47,5 +53,12 @@ In the end, there are some charts that deliver business insights for end-users:
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/6003f455-4fad-4ee1-bb50-969b0ed53299)
 
 ## Conclusion
+### Wellcome
+- Selling more high-end alcohol.
+- Trend to sell with box or bulk.
+- More expensive if a customer only buys a single one.
 
+### ParknShop
+- Selling more economic alcohol.
+- Trend to encourage to buy a single one.
 
