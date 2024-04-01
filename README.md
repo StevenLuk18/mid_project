@@ -22,11 +22,12 @@ This is a tool that inclines the Agile development approach which is similar to 
 <a name="Brainstorm-on-research-and-design-workflow"></a>
 # 1. Brainstorm on research and design workflow
 
-- My teammates and I were undergoing research like testing some of the e-stores with web scraping techniques.
-- Find out whether the online shop is suitable for web scraping.
-- Decide whether the website's product details are comparable such as the product's product_id, brand, volume, etc.
-- Database content like determining how many tables and what should be stored inside the database.
-- Some analytical questions/solutions should be answered after this project.
+- My teammates and I conducted research by testing some e-stores using web scraping techniques.
+- Determine the suitability of the online shop for web scraping.
+- Assess if the website provides comparable product details, such as product ID, brand, volume, etc.
+- Analyze the database structure, including the number of tables and the specific information to be stored.
+- Address any analytical questions or provide solutions that arise from this project.
+
 <a name="Conduct-web-scraping-initiatives"></a>
 # 2. Conduct web scraping initiatives
 ## Main technical library
@@ -103,5 +104,3 @@ More types of one particular alcohol
 
 More unique brands for the customers
 - Attract newcomers to try something new.
-
-
