@@ -12,6 +12,10 @@
 This is a tool that inclines the Agile development approach which is similar to Taskboard but an online version.
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/a53976df-80ef-48ee-a9cf-40771248ed97)
 
+## Table of contents
+* [Brainstorm on research and design workflow](##Brainstormonresearchanddesignworkflow)
+* [Conduct web scraping initiatives](##Conductwebscrapinginitiatives)
+
 ## 1. Brainstorm on research and design workflow
 
 - My teammates and I were undergoing research like testing some of the e-stores with web scraping techniques.
@@ -23,6 +27,10 @@ This is a tool that inclines the Agile development approach which is similar to 
 ## 2. Conduct web scraping initiatives
 ### Main technical library
 Selenium
+
+```shell
+pip install -r requirement.txt
+```
 
 More in [requirement.txt](requirement.txt)
 
