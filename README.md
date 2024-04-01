@@ -46,7 +46,27 @@ More in [requirement.txt](requirement.txt)
 <a name="Maintain-a-database"></a>
 # 3. Maintain a database
 
-There are three tables we created: 
+## Connect to database (PostgreSQL)
+### Psycopg2
+
+```shell
+def connect(host="localhost", database="blue", user="postgres", password="1234"):
+    print('Connecting to the database...')
+    try:
+        connection = psycopg2.connect(
+            user=user, 
+            password=password, 
+            host=host, 
+            port="5432", 
+            database=database)
+        print("Successfully connected to the database")
+        return connection
+    except psycopg2.Error as ero:
+        print("Failed to connect to the database:", ero)
+        return None
+```
+
+### There are three tables we created: 
 
 ## supermarket_list
 ![image](https://github.com/StevenLuk18/mid_project/assets/158287260/86a8c24f-9009-4195-a84b-ec8dd42be6f3)
