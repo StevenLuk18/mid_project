@@ -96,7 +96,7 @@ WebDriverWait(driver,10).until(EC.presence_of_all_elements_located((By.XPATH, "/
 processed_ids = set()
 products = []
 start_time = time.time()  
-max_duration = 1800 #超過30分鐘就出結果,真的受不了
+max_duration = 1800 #超過30分鐘就出結果
 
 while True:
     time.sleep(5)
